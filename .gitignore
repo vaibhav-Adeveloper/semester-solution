@@ -74,6 +74,7 @@ web_modules/
 .env.test
 .env.production
 learning.txt
+refinement.txt
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
