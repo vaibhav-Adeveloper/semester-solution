@@ -1,0 +1,584 @@
+[
+    {
+    "branch": "ECE",
+    "semester": "1",
+    "subjects": [
+      {
+        "subject": "Basic English and Communication Skills",
+        "code": "HUL100"
+      },
+      {
+        "subject": "Mathematics-I",
+        "code": "MAL100"
+      },
+      {
+        "subject": "Basic Electrical Engineering",
+        "code": "EEL100"
+      },
+      {
+        "subject": "Computer Programming",
+        "code": "ITL100"
+      },
+      {
+        "subject": "Engineering Chemistry",
+        "code": "CYL100"
+      },
+      {
+        "subject": "Engineering Chemistry Lab",
+        "code": "CYP100"
+      },
+      {
+        "subject": "Computer Programming Lab",
+        "code": "ITP100"
+      },
+      {
+        "subject": "Basic Electrical Engineering Lab",
+        "code": "EEL100P"
+      }
+    ]
+  },
+   {
+    "branch": "ECE",
+    "semester": "2",
+    "subjects": [
+      {
+        "subject": "Advanced English Communication Skills & OB",
+        "code": "HUL101"
+      },
+      {
+        "subject": "Mathematics-II",
+        "code": "MAL101"
+      },
+      {
+        "subject": "Engineering Physics",
+        "code": "PHL100"
+      },
+      {
+        "subject": "Engineering Mechanics",
+        "code": "CIL100"
+      },
+      {
+        "subject": "Environmental Studies",
+        "code": "CYL101"
+      },
+      {
+        "subject": "Language Lab",
+        "code": "HUP100"
+      }
+    ]
+  },
+  {
+    "branch": "ECE",
+    "semester": "3",
+    "subjects": [
+      {
+        "subject": "Syllabus",
+        "code": "SYL"
+      },
+      {
+        "subject": "Network Analysis",
+        "code": "ECE301"
+      },
+      {
+        "subject": "Basic Electronics",
+        "code": "ECE302"
+      },
+      {
+        "subject": "Signals and Systems",
+        "code": "ECE303"
+      },
+      {
+        "subject": "Principles of Electrical Engineering",
+        "code": "ELE301"
+      },
+      {
+        "subject": "Electronics Engineering Materials",
+        "code": "MET303"
+      },
+      {
+        "subject": "Mathematics-III",
+        "code": "MTH306"
+      },
+      {
+        "subject": "Electronic Circuits-I LAB",
+        "code": "ECE304P"
+      },
+      {
+        "subject": "Principles of Electrical Engineering LAB",
+        "code": "ELE302P"
+      }
+    ]
+  },
+  {
+    "branch": "ECE",
+    "semester": "4",
+    "subjects": [
+      {
+        "subject": "Syllabus",
+        "code": "SYL"
+      },
+      {
+        "subject": "Analog Electronics",
+        "code": "ECE401"
+      },
+      {
+        "subject": "Communication Systems-I",
+        "code": "ECE402"
+      },
+      {
+        "subject": "Digital Electronics and Logic Design",
+        "code": "ECE403"
+      },
+      {
+        "subject": "Electrical Machines",
+        "code": "ELE406"
+      },
+      {
+        "subject": "Control System",
+        "code": "ELE407"
+      },
+      {
+        "subject": "Mathematics-IV",
+        "code": "MTH403"
+      },
+      {
+        "subject": "Electronic Circuits-II LAB",
+        "code": "ECE404P"
+      },
+      {
+        "subject": "Communication Systems-I LAB",
+        "code": "ECE405P"
+      },
+      {
+        "subject": "Digital Electronics and Logic Design LAB",
+        "code": "ECE406P"
+      },
+      {
+        "subject": "Control System LAB",
+        "code": "ELE408P"
+      }
+    ]
+  },
+  {
+    "branch": "ECE",
+    "semester": "5",
+    "subjects": [
+      {
+        "subject": "Syllabus",
+        "code": "SYL"
+      },
+      {
+        "subject": "Microprocessors",
+        "code": "ECE501"
+      },
+      {
+        "subject": "Applied EMF & Waves",
+        "code": "ECE502"
+      },
+      {
+        "subject": "Electronic Devices",
+        "code": "ECE503"
+      },
+      {
+        "subject": "Data Structures",
+        "code": "CSE509"
+      },
+      {
+        "subject": "Random Processes Noise & Systems",
+        "code": "ECE505"
+      },
+      {
+        "subject": "Mathematics-V",
+        "code": "MTH504"
+      },
+      {
+        "subject": "Microprocessors LAB",
+        "code": "ECE506P"
+      },
+      {
+        "subject": "Data Structures LAB",
+        "code": "CSE510P"
+      }
+    ]
+  },
+  {
+    "branch": "ECE",
+    "semester": "6",
+    "subjects": [
+      {
+        "subject": "Syllabus",
+        "code": "SYL"
+      },
+      {
+        "subject": "Communication Systems-II",
+        "code": "ECE601"
+      },
+      {
+        "subject": "VLSI Design",
+        "code": "ECE602"
+      },
+      {
+        "subject": "Computer Organization & Architecture",
+        "code": "ECE603"
+      },
+      {
+        "subject": "Data Communications & Networking",
+        "code": "ECE604"
+      },
+      {
+        "subject": "Multimedia Systems",
+        "code": "ECE605"
+      },
+      {
+        "subject": "Power Electronics",
+        "code": "ELE603"
+      },
+      {
+        "subject": "Electronic Design & Automation Tools I LAB",
+        "code": "ECE606P"
+      },
+      {
+        "subject": "Power Electronics LAB",
+        "code": "ELE604P"
+      }
+    ]
+  },
+  {
+    "branch": "ECE",
+    "semester": "7",
+    "subjects": [
+      {
+        "subject": "Syllabus",
+        "code": "SYL"
+      },
+      {
+        "subject": "Project Pre-work",
+        "code": "ECE701"
+      },
+      {
+        "subject": "Seminar",
+        "code": "ECE702"
+      },
+      {
+        "subject": "Digital Signal Processing",
+        "code": "ECE703"
+      },
+      {
+        "subject": "Wireless Communications",
+        "code": "ECE704"
+      },
+      {
+        "subject": "Measurement & Instrumentation",
+        "code": "ECE705"
+      },
+      {
+        "subject": "Electrical Power Systems",
+        "code": "ELE706"
+      },
+      {
+        "subject": "Elective-I",
+        "code": "ECEXXXE"
+      },
+      {
+        "subject": "Elective-II",
+        "code": "ECEXXXE"
+      },
+      {
+        "subject": "Electronic Design & Automation Tools II LAB",
+        "code": "ECE707P"
+      },
+      {
+        "subject": "Electrical Power System LAB",
+        "code": "ELE703P"
+      }
+    ]
+  },
+  {
+    "branch": "ECE",
+    "semester": "8",
+    "subjects": [
+      {
+        "subject": "Syllabus",
+        "code": "SYL"
+      },
+      {
+        "subject": "Project & Viva",
+        "code": "ECE801"
+      },
+      {
+        "subject": "Industrial Training / Industrial Project",
+        "code": "ECE802"
+      },
+      {
+        "subject": "Computer and Network Security",
+        "code": "ECE803"
+      },
+      {
+        "subject": "Microwave Engineering",
+        "code": "ECE804"
+      },
+      {
+        "subject": "Elective-II",
+        "code": "ECEXXXE"
+      },
+      {
+        "subject": "Elective-III",
+        "code": "ECEXXXE"
+      },
+      {
+        "subject": "Industrial Organization and Management",
+        "code": "HSS801"
+      },
+      {
+        "subject": "Microwave Engineering LAB",
+        "code": "ECE805P"
+      },
+      {
+        "subject": "Elective Advanced Lab",
+        "code": "ECEXXXEP"
+      }
+    ]
+  },
+  {
+    "branch": "CSE",
+    "semester": 1,
+    "subjects": [
+      {
+        "subject": "Basic English and Communication Skills",
+        "code": "HUL100"
+      },
+      {
+        "subject": "Mathematics-I",
+        "code": "MAL100"
+      },
+      {
+        "subject": "Basic Electrical Engineering",
+        "code": "EEL100"
+      },
+      {
+        "subject": "Computer Programming",
+        "code": "ITL100"
+      },
+      {
+        "subject": "Engineering Chemistry",
+        "code": "CYL100"
+      },
+      {
+        "subject": "Engineering Chemistry Lab",
+        "code": "CYP100"
+      },
+      {
+        "subject": "Computer Programming Lab",
+        "code": "ITP100"
+      },
+      {
+        "subject": "Basic Electrical Engineering Lab",
+        "code": "EEL100P"
+      }
+    ]
+  },
+  {
+    "branch": "IT",
+    "semester": 1,
+    "subjects": [
+      {
+        "subject": "Basic English and Communication Skills",
+        "code": "HUL100"
+      },
+      {
+        "subject": "Mathematics-I",
+        "code": "MAL100"
+      },
+      {
+        "subject": "Basic Electrical Engineering",
+        "code": "EEL100"
+      },
+      {
+        "subject": "Computer Programming",
+        "code": "ITL100"
+      },
+      {
+        "subject": "Engineering Chemistry",
+        "code": "CYL100"
+      },
+      {
+        "subject": "Engineering Chemistry Lab",
+        "code": "CYP100"
+      },
+      {
+        "subject": "Computer Programming Lab",
+        "code": "ITP100"
+      },
+      {
+        "subject": "Basic Electrical Engineering Lab",
+        "code": "EEL100P"
+      }
+    ]
+  },
+  {
+    "branch": "EE",
+    "semester": 1,
+    "subjects": [
+      {
+        "subject": "Basic English and Communication Skills",
+        "code": "HUL100"
+      },
+      {
+        "subject": "Mathematics-I",
+        "code": "MAL100"
+      },
+      {
+        "subject": "Basic Electrical Engineering",
+        "code": "EEL100"
+      },
+      {
+        "subject": "Computer Programming",
+        "code": "ITL100"
+      },
+      {
+        "subject": "Engineering Chemistry",
+        "code": "CYL100"
+      },
+      {
+        "subject": "Engineering Chemistry Lab",
+        "code": "CYP100"
+      },
+      {
+        "subject": "Computer Programming Lab",
+        "code": "ITP100"
+      },
+      {
+        "subject": "Basic Electrical Engineering Lab",
+        "code": "EEL100P"
+      }
+    ]
+  },
+  {
+    "branch": "ME",
+    "semester": 1,
+    "subjects": [
+      {
+        "subject": "Basic English and Communication Skills",
+        "code": "HUL100"
+      },
+      {
+        "subject": "Mathematics-I",
+        "code": "MAL100"
+      },
+      {
+        "subject": "Engineering Physics",
+        "code": "PHL100"
+      },
+      {
+        "subject": "Engineering Chemistry",
+        "code": "CYL100"
+      },
+      {
+        "subject": "Engineering Drawing",
+        "code": "CIP100"
+      },
+      {
+        "subject": "Physics Lab",
+        "code": "PHP100"
+      },
+      {
+        "subject": "Language Lab",
+        "code": "HUP100"
+      },
+      {
+        "subject": "Workshop Practice",
+        "code": "WSP100"
+      }
+    ]
+  },
+  {
+    "branch": "CIV",
+    "semester": 1,
+    "subjects": [
+      {
+        "subject": "Basic English and Communication Skills",
+        "code": "HUL100"
+      },
+      {
+        "subject": "Mathematics-I",
+        "code": "MAL100"
+      },
+      {
+        "subject": "Engineering Physics",
+        "code": "PHL100"
+      },
+      {
+        "subject": "Engineering Chemistry",
+        "code": "CYL100"
+      },
+      {
+        "subject": "Engineering Drawing",
+        "code": "CIP100"
+      },
+      {
+        "subject": "Physics Lab",
+        "code": "PHP100"
+      },
+      {
+        "subject": "Language Lab",
+        "code": "HUP100"
+      },
+      {
+        "subject": "Workshop Practice",
+        "code": "WSP100"
+      }
+    ]
+  },
+  {
+    "branch": "CSE",
+    "semester": 2,
+    "subjects": [
+      {
+        "subject": "Advanced English Communication Skills & OB",
+        "code": "HUL101"
+      },
+      {
+        "subject": "Mathematics-II",
+        "code": "MAL101"
+      },
+      {
+        "subject": "Engineering Physics",
+        "code": "PHL100"
+      },
+      {
+        "subject": "Engineering Mechanics",
+        "code": "CIL100"
+      },
+      {
+        "subject": "Environmental Studies",
+        "code": "CYL101"
+      },
+      {
+        "subject": "Language Lab",
+        "code": "HUP100"
+      }
+    ]
+  },
+  {
+    "branch": "ME",
+    "semester": 2,
+    "subjects": [
+      {
+        "subject": "Advanced English Communication Skills & OB",
+        "code": "HUL101"
+      },
+      {
+        "subject": "Mathematics-II",
+        "code": "MAL101"
+      },
+      {
+        "subject": "Basic Electrical Engineering",
+        "code": "EEL101"
+      },
+      {
+        "subject": "Basic Electrical Engineering Lab",
+        "code": "EEP100"
+      }
+    ]
+  }
+]
